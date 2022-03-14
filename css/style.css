@@ -12,3 +12,25 @@ header {
     bottom: 10;
     height: 50px;
 }
+
+h1{
+    font-size: 50px;
+    margin:0;
+}
+
+h3,h4{
+    margin:0;
+    color: grey;
+}
+
+h4{
+    font-size: smaller;
+}
+
+span{
+    color:rgb(0, 102, 255)
+}
+
+.titolo{
+    margin: 10px 0;
+}

@@ -47,8 +47,8 @@ table{
     border-collapse: collapse;
 }
 
-th{
-   width: 33%;
+.last-td{
+   width: 50%;
 }
 
 .alternate{

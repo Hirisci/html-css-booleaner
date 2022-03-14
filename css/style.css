@@ -40,10 +40,17 @@ span{
     margin:0;
 }
 
-thead{
-    text-align: left;
-    color:white;
-    background-color: cornflowerblue;
+table{
+    border-collapse: collapse;
+}
+
+th{
+   width: 33%;
+}
+
+.alternate{
+    background-color: rgb(141, 165, 209);
+ 
 }
 
 .adv{
@@ -61,4 +68,10 @@ thead{
 
 p,ul,table{
     font-size: 18px;
+}
+
+thead{
+    text-align: left;
+    color:white;
+    background-color: cornflowerblue;
 }

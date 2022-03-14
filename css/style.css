@@ -39,3 +39,9 @@ span{
     font-size:small;
     margin:0;
 }
+
+thead{
+    text-align: left;
+    color:white;
+    background-color: cornflowerblue;
+}

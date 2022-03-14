@@ -45,3 +45,16 @@ thead{
     color:white;
     background-color: cornflowerblue;
 }
+
+.adv{
+    height: 150px;
+    width: 150px;
+    color:white;
+}
+
+.prima{
+    background-image: url("../img/monitor.jpg");
+}
+.seconda{
+    background-image: url("../img/pattern.png")
+}
